@@ -1,9 +1,9 @@
 {
-    "version": "2.2.8",
+    "version": "2.3.0",
     "description": "Revo Uninstaller helps you to uninstall software and remove unwanted programs easily",
     "homepage": "https://www.revouninstaller.com/products/revo-uninstaller-free/",
     "url": "https://www.revouninstaller.com/download-free-portable.php#/RevoUninstaller_Portable.zip",
-    "hash": "3e0a9fc3405ea9e1c75738f228a5e21b5968b6d024426c5625bc04486ee100a7",
+    "hash": "0bdf51545f1a771215dcd5e192efce18fd427eedcc7b36c6fbb551050674d5d3",
     "extract_dir": "RevoUninstaller_Portable",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\settings.ini\")) {",
